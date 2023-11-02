@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\truon\\Desktop\\haravan_backend\\haravan_backend.csproj": {}
+    "C:\\Users\\truon\\Desktop\\haravan_backend_develop\\haravan_backend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\truon\\Desktop\\haravan_backend\\haravan_backend.csproj": {
+    "C:\\Users\\truon\\Desktop\\haravan_backend_develop\\haravan_backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\truon\\Desktop\\haravan_backend\\haravan_backend.csproj",
+        "projectUniqueName": "C:\\Users\\truon\\Desktop\\haravan_backend_develop\\haravan_backend.csproj",
         "projectName": "haravan_backend",
-        "projectPath": "C:\\Users\\truon\\Desktop\\haravan_backend\\haravan_backend.csproj",
+        "projectPath": "C:\\Users\\truon\\Desktop\\haravan_backend_develop\\haravan_backend.csproj",
         "packagesPath": "C:\\Users\\truon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\truon\\Desktop\\haravan_backend\\obj\\",
+        "outputPath": "C:\\Users\\truon\\Desktop\\haravan_backend_develop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\truon\\AppData\\Roaming\\NuGet\\NuGet.Config"
